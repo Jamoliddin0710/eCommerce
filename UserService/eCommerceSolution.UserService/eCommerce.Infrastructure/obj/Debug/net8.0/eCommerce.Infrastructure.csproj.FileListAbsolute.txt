@@ -1,0 +1,16 @@
+D:\testproject\eCommerce\UserService\eCommerceSolution.UserService\eCommerce.Infrastructure\bin\Debug\net8.0\eCommerce.Infrastructure.deps.json
+D:\testproject\eCommerce\UserService\eCommerceSolution.UserService\eCommerce.Infrastructure\bin\Debug\net8.0\eCommerce.Infrastructure.dll
+D:\testproject\eCommerce\UserService\eCommerceSolution.UserService\eCommerce.Infrastructure\bin\Debug\net8.0\eCommerce.Infrastructure.pdb
+D:\testproject\eCommerce\UserService\eCommerceSolution.UserService\eCommerce.Infrastructure\bin\Debug\net8.0\eCommerce.Core.dll
+D:\testproject\eCommerce\UserService\eCommerceSolution.UserService\eCommerce.Infrastructure\bin\Debug\net8.0\eCommerce.Core.pdb
+D:\testproject\eCommerce\UserService\eCommerceSolution.UserService\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.csproj.AssemblyReference.cache
+D:\testproject\eCommerce\UserService\eCommerceSolution.UserService\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\testproject\eCommerce\UserService\eCommerceSolution.UserService\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.AssemblyInfoInputs.cache
+D:\testproject\eCommerce\UserService\eCommerceSolution.UserService\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.AssemblyInfo.cs
+D:\testproject\eCommerce\UserService\eCommerceSolution.UserService\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.csproj.CoreCompileInputs.cache
+D:\testproject\eCommerce\UserService\eCommerceSolution.UserService\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.sourcelink.json
+D:\testproject\eCommerce\UserService\eCommerceSolution.UserService\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerc.0C272DDA.Up2Date
+D:\testproject\eCommerce\UserService\eCommerceSolution.UserService\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.dll
+D:\testproject\eCommerce\UserService\eCommerceSolution.UserService\eCommerce.Infrastructure\obj\Debug\net8.0\refint\eCommerce.Infrastructure.dll
+D:\testproject\eCommerce\UserService\eCommerceSolution.UserService\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.pdb
+D:\testproject\eCommerce\UserService\eCommerceSolution.UserService\eCommerce.Infrastructure\obj\Debug\net8.0\ref\eCommerce.Infrastructure.dll
