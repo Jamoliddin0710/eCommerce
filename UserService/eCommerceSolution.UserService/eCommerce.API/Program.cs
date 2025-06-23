@@ -20,6 +20,14 @@ builder.Services.AddControllers().AddJsonOptions(option =>
     option.JsonSerializerOptions.Converters.Add(new JsonStringEnumConverter()));
 builder.Services.AddAutoMapper(typeof(ApplicationMappingProfile).Assembly);
 builder.Services.AddFluentValidationAutoValidation();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddCors(options => options.AddDefaultPolicy(x =>
+{
+    x.AllowAnyOrigin()
+        .AllowAnyMethod()
+        .AllowAnyHeader();
+}));
+
 builder.Services.AddSwaggerGen(c =>
 {
     c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
@@ -45,6 +53,7 @@ builder.Services.AddSwaggerGen(c =>
 
 var app = builder.Build();
 
+app.UsePathBase("/identity/api");
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {

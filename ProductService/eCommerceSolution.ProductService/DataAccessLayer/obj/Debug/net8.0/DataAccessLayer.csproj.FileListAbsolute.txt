@@ -1,0 +1,15 @@
+D:\testproject\eCommerce\ProductService\eCommerceSolution.ProductService\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\testproject\eCommerce\ProductService\eCommerceSolution.ProductService\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.runtimeconfig.json
+D:\testproject\eCommerce\ProductService\eCommerceSolution.ProductService\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\testproject\eCommerce\ProductService\eCommerceSolution.ProductService\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\testproject\eCommerce\ProductService\eCommerceSolution.ProductService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\testproject\eCommerce\ProductService\eCommerceSolution.ProductService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\testproject\eCommerce\ProductService\eCommerceSolution.ProductService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\testproject\eCommerce\ProductService\eCommerceSolution.ProductService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\testproject\eCommerce\ProductService\eCommerceSolution.ProductService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\testproject\eCommerce\ProductService\eCommerceSolution.ProductService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+D:\testproject\eCommerce\ProductService\eCommerceSolution.ProductService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\testproject\eCommerce\ProductService\eCommerceSolution.ProductService\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\testproject\eCommerce\ProductService\eCommerceSolution.ProductService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\testproject\eCommerce\ProductService\eCommerceSolution.ProductService\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.genruntimeconfig.cache
+D:\testproject\eCommerce\ProductService\eCommerceSolution.ProductService\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
